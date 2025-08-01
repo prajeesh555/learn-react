@@ -5,6 +5,7 @@ import App from './Posts.jsx'; // Your main App component
 import './index.css'; // Your global styles
 import './Userlist.jsx'
 import Comment from './Comment.jsx'
+import car from './car.jsx'; 
 
 // Import BrowserRouter from react-router-dom
 import { BrowserRouter } from 'react-router-dom';
